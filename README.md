@@ -7,3 +7,4 @@ Our results on GTSRB as base dataset (used 25 classes) and target dataset (used 
 ![Result on same dataset](https://github.com/180041123-Atiq/PatternRecognition/blob/main/qn.PNG)
 
 Our results on Belgium Dataset as base (used 20 classes) and GTSRB as target datatset (used 18 classes).
+![Result on different dataset](https://github.com/180041123-Atiq/PatternRecognition/blob/main/qd.PNG)
